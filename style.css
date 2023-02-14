@@ -1,2 +1,28 @@
-@import url('https://fonts.googleapis.com/css2?family=Zeyada&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&family=Zeyada&display=swap');
 
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0x;
+
+}
+
+h1 {
+    font-family: 'Zeyada', sans-serif;
+    font-weight: bolder;
+    font-size: 3em;
+}
+
+h4 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 300;
+}
+
+button {
+    font-family: 'Ubuntu', sans-serif;
+    
+}
